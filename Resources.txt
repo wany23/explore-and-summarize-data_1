@@ -1,0 +1,3 @@
+Resources
+
+I used stackoverflow as well as R documentation.  I also utilized information on ggplot2 and qplot.
